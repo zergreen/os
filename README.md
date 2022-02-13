@@ -1,7 +1,7 @@
 # os
 
 os : course repository <br>
-date : 13/2/2022
+date : 13/2/2022 <br>
 path : year2/term2
 
 hola! my friend.
