@@ -2,6 +2,7 @@
 
 os : course repository <br>
 date : 13/2/2022
+path : year2/term2
 
 hola! my friend.
 
